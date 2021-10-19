@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/yash-brahmkshatriya/yash-brahmkshatriya/main/assets/github_banner.png)
+![Banner](https://raw.githubusercontent.com/yash-brahmkshatriya/yash-brahmkshatriya/main/assets/github_profile_banner.png)
 
 # Hi, there 👋
 
@@ -27,4 +27,5 @@ Wisit my website to know more.
 ![Vscode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Stats
+
 ![Yash's Github Stats](https://github-readme-stats.vercel.app/api?username=yash-brahmkshatriya)
