@@ -8,16 +8,8 @@ Wisit my website to know more.
 
 ## Socials
 
-<!-- Linkedin -->
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-brahmkshatriya-9b47a51b1/)
-
-<!-- Website -->
-
 [![Website](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yashb.gatsbyjs.io)
-
-<!-- Mail -->
-
 [![Mail Badge](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash311000@gmail.com)
 
 ## Languages & Frameworks
@@ -34,4 +26,5 @@ Wisit my website to know more.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Vscode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Stats
 ![Yash's Github Stats](https://github-readme-stats.vercel.app/api?username=yash-brahmkshatriya)
