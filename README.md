@@ -27,5 +27,7 @@ Wisit my website to know more.
 ![Vscode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Stats
-
-![Yash's Github Stats](https://github-readme-stats.vercel.app/api?username=yash-brahmkshatriya)
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-brahmkshatriya&show_icons=true&theme=tokyonight" alt="Yash's Github Stats" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-brahmkshatriya&layout=compact&theme=tokyonight" alt="Yash's most used languages" height="200em" />
+</span>
